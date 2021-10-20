@@ -2,11 +2,11 @@
 
 This is a sample client-server program written in C++
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=PF4o4yKxV1o)
 
 # Development Environment
 
-Linux Ubuntu
+Microsoft Windows on a Linux Ubuntu subsystem
 VSCode
 C++
 
